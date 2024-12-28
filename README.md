@@ -22,6 +22,23 @@
 
 [DMux](https://github.com/ygvmp1105/_co/blob/master/01/DMux.hdl)
 
-[Not](https://github.com/ygvmp1105/_co/blob/master/01/Not.hdl)
-
 ## 第二周習題
+[Not16](https://github.com/ygvmp1105/_co/blob/master/01/Not16.hdl)
+
+[And16](https://github.com/ygvmp1105/_co/blob/master/01/And16.hdl)
+
+[Or16](https://github.com/ygvmp1105/_co/blob/master/01/Or16.hdl)
+
+[Mux16](https://github.com/ygvmp1105/_co/blob/master/01/Mux16.hdl)
+
+[Or8Way](https://github.com/ygvmp1105/_co/blob/master/01/Or8Way.hdl)
+
+[Mux4Way16](https://github.com/ygvmp1105/_co/blob/master/01/Mux4Way16.hdl)
+
+[Mux8Way16](https://github.com/ygvmp1105/_co/blob/master/01/Mux8Way16.hdl)
+
+[DMux4Way](https://github.com/ygvmp1105/_co/blob/master/01/DMux4Way.hdl)
+
+[DMux8Way](https://github.com/ygvmp1105/_co/blob/master/01/DMux8Way.hdl)
+
+## 第三周習題
