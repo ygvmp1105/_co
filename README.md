@@ -49,3 +49,6 @@
 [Add16](https://github.com/ygvmp1105/_co/blob/master/02/Add16.hdl)
 
 [Inc16](https://github.com/ygvmp1105/_co/blob/master/02/Inc16.hdl)
+
+## 第四周習題
+[ALU](https://github.com/ygvmp1105/_co/blob/master/02/ALU.hdl)
