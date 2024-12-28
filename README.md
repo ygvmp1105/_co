@@ -73,3 +73,15 @@
 
 ## 第七周習題
 [mult.asm](https://github.com/ygvmp1105/_co/blob/master/04/mult/mult.asm)
+
+## 第八周習題
+[Fill.asm](https://github.com/ygvmp1105/_co/blob/master/04/fill/Fill.asm)
+
+## 第九周習題
+[CPU](https://github.com/ygvmp1105/_co/blob/master/05/CPU.hdl)
+
+## 第十周習題
+[Ｍemory](https://github.com/ygvmp1105/_co/blob/master/05/Memory.hdl)
+
+[Computer](https://github.com/ygvmp1105/_co/blob/master/05/Computer.hdl)
+
