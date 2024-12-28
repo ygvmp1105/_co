@@ -28,4 +28,16 @@ CHIP Memory {
 
     PARTS:
     // Put your code here:
+    Not(in=address[14], out=isRAM);
+    And(a=address[14], b=Not(in=address[13]), out=isScreen); // 0x4000-0x5FFF 螢幕
+    And(a=address[14], b=address[13], out=isKeyboard);       // 0x6000 鍵盤
+
+    RAM16K(in=in, load=And(a=load, b=isRAM), address=address[0..13], out=ramOut);
+
+    Screen(in=in, load=And(a=load, b=isScreen), address=address[0..12], out=screenOut);
+
+    Keyboard(out=keyboardOut);
+
+    Mux16(a=ramOut, b=screenOut, sel=address[14], out=middleOut);
+    Mux16(a=middleOut, b=keyboardOut, sel=isKeyboard, out=out);
 }
