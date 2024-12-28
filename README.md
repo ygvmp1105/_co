@@ -10,7 +10,7 @@
 課程教材 | https://github.com/ccc112a/cpu2os <BR/> https://www.nand2tetris.org/
 
 ## 第一周習題
-[Not](https://github.com/ygvmp1105/_co/blob/master/01/Not.hdl)
+###[Not](https://github.com/ygvmp1105/_co/blob/master/01/Not.hdl)
 [And](https://github.com/ygvmp1105/_co/blob/master/01/And.hdl)
 [Or](https://github.com/ygvmp1105/_co/blob/master/01/Or.hdl)
 [Xor](https://github.com/ygvmp1105/_co/blob/master/01/Xor.hdl)
