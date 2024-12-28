@@ -54,10 +54,10 @@
 [ALU](https://github.com/ygvmp1105/_co/blob/master/02/ALU.hdl)
 
 ## 第五周習題
-[Bit](https://github.com/ygvmp1105/_co/blob/master/03/Bit.hdl)
+[Bit](https://github.com/ygvmp1105/_co/blob/master/03/a/Bit.hdl)
 
-[Register](https://github.com/ygvmp1105/_co/blob/master/03/Register.hdl)
+[Register](https://github.com/ygvmp1105/_co/blob/master/03/a/Register.hdl)
 
-[RAM8](https://github.com/ygvmp1105/_co/blob/master/03/RAM8.hdl)
+[RAM8](https://github.com/ygvmp1105/_co/blob/master/03/a/RAM8.hdl)
 
-[RAM64](https://github.com/ygvmp1105/_co/blob/master/03/RAM64.hdl)
+[RAM64](https://github.com/ygvmp1105/_co/blob/master/03/a/RAM64.hdl)
