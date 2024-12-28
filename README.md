@@ -61,3 +61,13 @@
 [RAM8](https://github.com/ygvmp1105/_co/blob/master/03/a/RAM8.hdl)
 
 [RAM64](https://github.com/ygvmp1105/_co/blob/master/03/a/RAM64.hdl)
+
+## 第六周習題
+[RAM512](https://github.com/ygvmp1105/_co/blob/master/03/b/RAM512.hdl)
+
+[RAM4K](https://github.com/ygvmp1105/_co/blob/master/03/b/RAM4K.hdl)
+
+[RAM16K](https://github.com/ygvmp1105/_co/blob/master/03/b/RAM16K.hdl)
+
+[PC](https://github.com/ygvmp1105/_co/blob/master/03/a/PC.hdl)
+
