@@ -42,3 +42,10 @@
 [DMux8Way](https://github.com/ygvmp1105/_co/blob/master/01/DMux8Way.hdl)
 
 ## 第三周習題
+[HalfAdder](https://github.com/ygvmp1105/_co/blob/master/02/HalfAdder.hdl)
+
+[FullAdder](https://github.com/ygvmp1105/_co/blob/master/02/FullAdder.hdl)
+
+[Add16](https://github.com/ygvmp1105/_co/blob/master/02/Add16.hdl)
+
+[Inc16](https://github.com/ygvmp1105/_co/blob/master/02/Inc16.hdl)
