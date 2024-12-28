@@ -23,3 +23,5 @@
 [DMux](https://github.com/ygvmp1105/_co/blob/master/01/DMux.hdl)
 
 [Not](https://github.com/ygvmp1105/_co/blob/master/01/Not.hdl)
+
+## 第二周習題
